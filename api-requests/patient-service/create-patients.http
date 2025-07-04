@@ -1,0 +1,12 @@
+### Post request to create patients
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "kanishk wist ill address",
+  "email": "anishkpatsak1k1@gmail.com",
+  "address": "india, jharkhand, jamshedpur",
+  "dateOfBirth":"2001-01-01",
+  "registeredDate": "2030-01-09"
+}
+
